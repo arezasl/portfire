@@ -9,3 +9,5 @@
 
 - add threaded option to scan faster when it comes to multi target scans
 - add proxy option to relay connections through a custom local proxy, for example TOR
+
+- add user_data HEADER to the generated packet(for future use)
