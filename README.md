@@ -1,9 +1,9 @@
 # TCP Port Scanner
 
-* fullTCP.py: scans the target with full TCP hanshake.
+* fullTCP.py: scans the target with full TCP handshake.
 
 
-* rawSocketScanner.py: scans the target with half-open TCP connection,the proccess is to make a packet from from scratch and set SYN flag to 1, it's also possible to modify this  scanner to perform FIN or X-mass scans.
+* rawSocketScanner.py: scans the target with half-open TCP connection,the proccess is to make a packet from scratch and set SYN flag to 1, it's also possible to modify this  scanner to perform FIN or X-mass scans.
 
 # TODO:
 
